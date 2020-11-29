@@ -51,4 +51,106 @@
       "calories": 620
     }
   ]
+  "exercise": [
+    {
+      "id": 1,
+      "name": "Weight Lifting: general",
+      "calories": 112
+    },
+    {
+      "id": 2,
+      "name": "Aerobics: water",
+      "calories": 149
+    },
+    {
+      "id": 3,
+      "name": "Stretching, Hatha Yoga",
+      "calories": 149
+    },
+    {
+      "id": 4,
+      "name": "Calisthenics: moderate",
+      "calories": 167
+    },
+    {
+      "id": 5,
+      "name": "Riders: general",
+      "calories": 186
+    },
+    {
+      "id": 6,
+      "name": "Aerobics: low impact",
+      "calories": 205
+    },
+    {
+      "id": 7,
+      "name": "Stair Step Machine: general",
+      "calories": 223
+    },
+    {
+      "id": 8,
+      "name": "Teaching aerobics",
+      "calories": 223
+    },
+    {
+      "id": 9,
+      "name": "Weight Lifting: vigorous",
+      "calories": 223
+    },
+    {
+      "id": 10,
+      "name": "Aerobics, Step: low impact",
+      "calories": 260
+    },
+    {
+      "id": 11,
+      "name": "Aerobics: high impact",
+      "calories": 260
+    },
+    {
+      "id": 12,
+      "name": "Bicycling, Stationary: moderate",
+      "calories": 260
+    },
+    {
+      "id": 13,
+      "name": "Rowing, Stationary: moderate",
+      "calories": 260
+    },
+    {
+      "id": 14,
+      "name": "Calisthenics: vigorous",
+      "calories": 298
+    },
+    {
+      "id": 15,
+      "name": "Circuit Training: general",
+      "calories": 298
+    },
+    {
+      "id": 16,
+      "name": "Rowing, Stationary: vigorous",
+      "calories": 316
+    },
+    {
+      "id": 17,
+      "name": "Elliptical Trainer: general",
+      "calories": 335
+    },
+    {
+      "id": 18,
+      "name": "Ski Machine: general",
+      "calories": 353
+    },
+    {
+      "id": 19,
+      "name": "Aerobics, Step: high impact",
+      "calories": 372
+    },
+    {
+      "id": 20,
+      "name": "Bicycling, Stationary: vigorous",
+      "calories": 391
+    }
+  ] 
 }
