@@ -161,393 +161,153 @@
   "training&sport": [
     {
       "id": 1,
-      "name": "Billiards",
-      "calories": 93
-    },
-    {
-      "id": 2,
       "name": "Bowling",
       "calories": 112
     },
     {
-      "id": 3,
-      "name": "Dancing: slow, waltz, foxtrot",
-      "calories": 112
-    },
-    {
-      "id": 4,
+      "id": 2,
       "name": "Frisbee",
       "calories": 112
     },
     {
-      "id": 5,
+      "id": 3,
       "name": "Volleyball: non-competitive, general play",
       "calories": 112
     },
     {
-      "id": 6,
-      "name": "Water Volleyball",
-      "calories": 112
-    },
-    {
-      "id": 7,
+      "id": 4,
       "name": "Archery: non-hunting",
       "calories": 130
     },
     {
-      "id": 8,
-      "name": "Golf: using cart",
-      "calories": 130
-    },
-    {
-      "id": 9,
-      "name": "Hang Gliding",
-      "calories": 130
-    },
-    {
-      "id": 10,
-      "name": "Curling",
-      "calories": 149
-    },
-    {
-      "id": 11,
+      "id": 5,
       "name": "Gymnastics: general",
       "calories": 149
     },
     {
-      "id": 12,
-      "name": "Horseback Riding: general",
-      "calories": 149
-    },
-    {
-      "id": 13,
-      "name": "Tai Chi",
-      "calories": 149
-    },
-    {
-      "id": 14,
+      "id": 6,
       "name": "Volleyball: competitive, gymnasium play",
       "calories": 149
     },
     {
-      "id": 15,
+      "id": 7,
       "name": "Walking: 3.5 mph (17 min/mi)",
       "calories": 149
     },
     {
-      "id": 16,
+      "id": 8,
       "name": "Badminton: general",
       "calories": 167
     },
     {
-      "id": 17,
-      "name": "Walking: 4 mph (15 min/mi)",
-      "calories": 167
-    },
-    {
-      "id": 18,
+      "id": 9,
       "name": "Kayaking",
       "calories": 186
     },
     {
-      "id": 19,
-      "name": "Skateboarding",
-      "calories": 186
-    },
-    {
-      "id": 20,
-      "name": "Snorkeling",
-      "calories": 186
-    },
-    {
-      "id": 21,
-      "name": "Softball: general play",
-      "calories": 186
-    },
-    {
-      "id": 22,
+      "id": 10,
       "name": "Walking: 4.5 mph (13 min/mi)",
       "calories": 186
     },
     {
-      "id": 23,
-      "name": "Whitewater: rafting, kayaking",
-      "calories": 186
-    },
-    {
-      "id": 24,
-      "name": "Dancing: disco, ballroom, square",
-      "calories": 205
-    },
-    {
-      "id": 25,
-      "name": "Golf: carrying clubs",
-      "calories": 205
-    },
-    {
-      "id": 26,
-      "name": "Dancing: Fast, ballet, twist",
-      "calories": 223
-    },
-    {
-      "id": 27,
+      "id": 11,
       "name": "Fencing",
       "calories": 223
     },
     {
-      "id": 28,
-      "name": "Hiking: cross-country",
-      "calories": 223
-    },
-    {
-      "id": 29,
-      "name": "Skiing: downhill",
-      "calories": 223
-    },
-    {
-      "id": 30,
+      "id": 12,
       "name": "Swimming: general",
       "calories": 223
     },
     {
-      "id": 31,
-      "name": "Walk/Jog: jog <10 min.",
-      "calories": 223
-    },
-    {
-      "id": 32,
-      "name": "Water Skiing",
-      "calories": 223
-    },
-    {
-      "id": 33,
+      "id": 13,
       "name": "Wrestling",
       "calories": 223
     },
     {
-      "id": 34,
-      "name": "Basketball: wheelchair",
-      "calories": 242
-    },
-    {
-      "id": 35,
-      "name": "Race Walking",
-      "calories": 242
-    },
-    {
-      "id": 36,
+      "id": 14,
       "name": "Ice Skating: general",
       "calories": 260
     },
     {
-      "id": 37,
-      "name": "Racquetball: casual, general",
-      "calories": 260
-    },
-    {
-      "id": 38,
-      "name": "Rollerblade Skating",
-      "calories": 260
-    },
-    {
-      "id": 39,
-      "name": "Scuba or skin diving",
-      "calories": 260
-    },
-    {
-      "id": 40,
-      "name": "Sledding, luge, toboggan",
-      "calories": 260
-    },
-    {
-      "id": 41,
+      "id": 15,
       "name": "Soccer: general",
       "calories": 260
     },
     {
-      "id": 42,
+      "id": 16,
       "name": "Tennis: general",
       "calories": 260
     },
     {
-      "id": 43,
+      "id": 17,
       "name": "Basketball: playing a game",
       "calories": 298
     },
     {
-      "id": 44,
+      "id": 18,
       "name": "Bicycling: 12-13.9 mph",
       "calories": 298
     },
     {
-      "id": 45,
-      "name": "Football: touch, flag, general",
-      "calories": 298
-    },
-    {
-      "id": 46,
+      "id": 19,
       "name": "Hockey: field & ice",
       "calories": 298
     },
     {
-      "id": 47,
-      "name": "Rock Climbing: rappelling",
-      "calories": 298
-    },
-    {
-      "id": 48,
+      "id": 20,
       "name": "Running: 5 mph (12 min/mile)",
       "calories": 298
     },
     {
-      "id": 49,
-      "name": "Running: pushing wheelchair, marathon wheeling",
-      "calories": 298
-    },
-    {
-      "id": 50,
-      "name": "Skiing: cross-country",
-      "calories": 298
-    },
-    {
-      "id": 51,
-      "name": "Snow Shoeing",
-      "calories": 298
-    },
-    {
-      "id": 52,
+      "id": 21,
       "name": "Swimming: backstroke",
       "calories": 298
     },
     {
-      "id": 53,
+      "id": 22,
       "name": "Volleyball: beach",
       "calories": 298
     },
     {
-      "id": 54,
-      "name": "Bicycling: BMX or mountain",
-      "calories": 316
-    },
-    {
-      "id": 55,
+      "id": 23,
       "name": "Boxing: sparring",
       "calories": 335
     },
     {
-      "id": 56,
-      "name": "Football: competitive",
-      "calories": 335
-    },
-    {
-      "id": 57,
-      "name": "Orienteering",
-      "calories": 335
-    },
-    {
-      "id": 58,
+      "id": 24,
       "name": "Running: 5.2 mph (11.5 min/mile)",
       "calories": 335
     },
     {
-      "id": 59,
-      "name": "Running: cross-country",
-      "calories": 335
-    },
-    {
-      "id": 60,
+      "id": 25,
       "name": "Bicycling: 14-15.9 mph",
       "calories": 372
     },
     {
-      "id": 61,
+      "id": 26,
       "name": "Martial Arts: judo, karate, kickbox",
       "calories": 372
     },
     {
-      "id": 62,
-      "name": "Racquetball: competitive",
-      "calories": 372
-    },
-    {
-      "id": 63,
-      "name": "Rope Jumping",
-      "calories": 372
-    },
-    {
-      "id": 64,
-      "name": "Running: 6 mph (10 min/mile)",
-      "calories": 372
-    },
-    {
-      "id": 65,
-      "name": "Swimming: breaststroke",
-      "calories": 372
-    },
-    {
-      "id": 66,
+      "id": 27,
       "name": "Swimming: laps, vigorous",
       "calories": 372
     },
     {
-      "id": 67,
-      "name": "Swimming: treading, vigorous",
-      "calories": 372
-    },
-    {
-      "id": 68,
-      "name": "Water Polo",
-      "calories": 372
-    },
-    {
-      "id": 69,
-      "name": "Rock Climbing: ascending",
-      "calories": 409
-    },
-    {
-      "id": 70,
+      "id": 28,
       "name": "Running: 6.7 mph (9 min/mile)",
       "calories": 409
     },
     {
-      "id": 71,
-      "name": "Swimming: butterfly",
-      "calories": 409
-    },
-    {
-      "id": 72,
-      "name": "Swimming: crawl",
-      "calories": 409
-    },
-    {
-      "id": 73,
+      "id": 29,
       "name": "Bicycling: 16-19 mph",
       "calories": 446
     },
     {
-      "id": 74,
-      "name": "Handball: general",
-      "calories": 446
-    },
-    {
-      "id": 75,
-      "name": "Running: 7.5 mph (8 min/mile)",
-      "calories": 465
-    },
-    {
-      "id": 76,
+      "id": 30,
       "name": "Running: 8.6 mph (7 min/mile)",
       "calories": 539
-    },
-    {
-      "id": 77,
-      "name": "Bicycling: > 20 mph",
-      "calories": 614
-    },
-    {
-      "id": 78,
-      "name": "Running: 10 mph (6 min/mile)",
-      "calories": 614
     }
   ]
 }
