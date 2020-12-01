@@ -2,58 +2,128 @@
   "food": [
     {
       "id": 1,
-      "name": "Chicken",
-      "calories": 100
+      "name": "Nasi, 1 plate (80 g)",
+      "calories": 272
     },
     {
       "id": 2,
-      "name": "Beef",
-      "calories": 200
+      "name": "Telor Rebus (100 g)",
+      "calories": 155
     },
     {
       "id": 3,
-      "name": "Pork",
-      "calories": 300
+      "name": "Telor Ceplok (100 g)",
+      "calories": 196
     },
     {
       "id": 4,
-      "name": "Steak",
-      "calories": 400
+      "name": "Scrambled Egg (100 g)",
+      "calories": 148
     },
     {
       "id": 5,
-      "name": "Burger",
-      "calories": 500
+      "name": "Tahu Goreng (1 pc)",
+      "calories": 134
     },
     {
       "id": 6,
-      "name": "Siomay",
-      "calories": 375
+      "name": "Bakwan Goreng (1 pc)",
+      "calories": 137
     },
     {
       "id": 7,
-      "name": "Kentang",
-      "calories": 120
+      "name": "Tempe Goreng (1 pc)",
+      "calories": 34
     },
     {
       "id": 8,
-      "name": "Rujak",
-      "calories": 430
+      "name": "Kentang Rebus (200 g)",
+      "calories": 166
     },
     {
       "id": 9,
-      "name": "Mie Effata",
-      "calories": 700
+      "name": "Bubur (200 g)",
+      "calories": 44
     },
     {
       "id": 10,
-      "name": "Rocky",
-      "calories": 620
+      "name": "Roti Tawar (50 g)",
+      "calories": 128
     },
     {
       "id": 11,
-      "name": "Indomie",
-      "calories": 480
+      "name": "Nasi Tim (100 g)",
+      "calories": 88
+    },
+    {
+      "id": 12,
+      "name": "Nasi Uduk (100 g)",
+      "calories": 253
+    },
+    {
+      "id": 13,
+      "name": "Bihun Goreng (150 g)",
+      "calories": 296
+    },
+    {
+      "id": 14,
+      "name": "Bubur Sum-Sum (100 g)",
+      "calories": 178
+    },
+    {
+      "id": 15,
+      "name": "Mie Goreng (200 g)",
+      "calories": 321
+    },
+    {
+      "id": 16,
+      "name": "Nasi Goreng (100 g)",
+      "calories": 267
+    },
+    {
+      "id": 17,
+      "name": "Tape Singkong (100 g)",
+      "calories": 130
+    },
+    {
+      "id": 18,
+      "name": "Ayam Panggang (100 g)",
+      "calories": 164
+    },
+    {
+      "id": 19,
+      "name": "Telur Asin Rebus (75 g)",
+      "calories": 138
+    },
+    {
+      "id": 20,
+      "name": "Ayam Pop (200 g)",
+      "calories": 265
+    },
+    {
+      "id": 21,
+      "name": "Bakso Daging Sapi (100 g)",
+      "calories": 265
+    },
+    {
+      "id": 22,
+      "name": "Empal Daging (100 g)",
+      "calories": 147
+    },
+    {
+      "id": 23,
+      "name": "Ikan Bandeng Goreng (160 g)",
+      "calories": 180
+    },
+    {
+      "id": 24,
+      "name": "Ikan Lele Goreng (60 g)",
+      "calories": 58
+    },
+    {
+      "id": 25,
+      "name": "Gulai Ayam (100 g)",
+      "calories": 165
     }
   ],
   "gym": [
